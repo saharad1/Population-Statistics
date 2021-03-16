@@ -1,0 +1,1 @@
+python3 /home/student/hw1/main.py/home/student/hw1/hw1/cps09mar.csv "age, female, education, earnings, hours, week,marital"
